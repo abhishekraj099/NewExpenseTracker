@@ -1,6 +1,4 @@
-Sure! Here is the README file for your Expense Tracker app, with your GitHub link incorporated:
 
----
 
 # 💸 Expense Tracker App
 
@@ -11,8 +9,9 @@ Sure! Here is the README file for your Expense Tracker app, with your GitHub lin
 </p>
 
 <p align="center">
-  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/d79a6633-30e1-49e1-8335-4195b0dc2ce6" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/2b24507c-8619-4361-9eef-0dd040799e90" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/a05ccc7f-56de-4936-b5d4-563f6b933858" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/49c42927-26db-41fb-ad05-f283866e081d" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/cb2f0747-98d1-438a-844c-31b2d700998c" alt="Screenshot 3" width="200"/>
 </p>
 
 ## 🌟 About the Project
@@ -38,8 +37,9 @@ The **Expense Tracker** app is a comprehensive solution for managing your financ
 ## 📷 Screenshots
 
 <p align="center">
-  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/d79a6633-30e1-49e1-8335-4195b0dc2ce6" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/2b24507c-8619-4361-9eef-0dd040799e90" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/a05ccc7f-56de-4936-b5d4-563f6b933858" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/49c42927-26db-41fb-ad05-f283866e081d" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/cb2f0747-98d1-438a-844c-31b2d700998c" alt="Screenshot 3" width="200"/>
 </p>
 
 ## 🚀 Getting Started
@@ -74,11 +74,4 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ---
 
 Enjoy using the **Expense Tracker** app and take control of your finances today! 💪
-
----
-
-
- Clone the repo
-   ``https://github.com/abhishekraj099/NewExpenseTracker
-   
    
