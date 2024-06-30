@@ -1,4 +1,8 @@
-# 💰 Expense Tracker App 💰
+Sure! Here is the README file for your Expense Tracker app, with your GitHub link incorporated:
+
+---
+
+# 💸 Expense Tracker App
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-brightgreen" alt="Platform">
@@ -7,33 +11,74 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shreyanshsinghks/ExpenseTrackerJetpack/assets/120413995/38f9fe89-3bfc-4cb5-807d-6ae0f81b7bfd" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/shreyanshsinghks/ExpenseTrackerJetpack/assets/120413995/b23e5580-4501-48d3-9e1b-5a926a76bb20" alt="Screenshot 2" width="200"/>
-  <img src="https://github.com/shreyanshsinghks/ExpenseTrackerJetpack/assets/120413995/9768f747-86c8-47b5-ac73-42855df2c087" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/d79a6633-30e1-49e1-8335-4195b0dc2ce6" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/2b24507c-8619-4361-9eef-0dd040799e90" alt="Screenshot 2" width="200"/>
 </p>
 
 ## 🌟 About the Project
 
-This Expense Tracker app helps you manage your finances effectively by keeping track of your expenses and income. Built using Kotlin and Jetpack Compose, it offers a modern and responsive UI with smooth user interactions.
+The **Expense Tracker** app is a comprehensive solution for managing your finances. Developed by [Abhishek Raj](https://github.com/abhishekraj099), this app helps you to effortlessly track your income and expenses.
 
 ## ✨ Features
 
-- ➕ Add, edit, and delete expenses and income
-- 📊 View detailed statistics of your expenses
-- 🔍 Filter transactions by date and category
-- 📱 Responsive and intuitive UI
+- ➕ **Add Expenses**: Easily record your daily expenses.
+- ➕ **Add Income**: Track all your income sources.
+- 📊 **View Reports**: Get detailed reports of your spending and earnings.
+- 🔍 **Search**: Quickly find specific transactions.
+- 📅 **Date-wise Filtering**: Filter transactions by date for better management.
+
+## 🛠️ Technologies Used
+
+- **Kotlin**: The primary programming language.
+- **Jetpack Compose**: For building modern and responsive UI.
+- **Room**: For local database management.
+- **Hilt**: For dependency injection.
+- **Navigation Component**: For seamless navigation within the app.
+
+## 📷 Screenshots
+
+<p align="center">
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/d79a6633-30e1-49e1-8335-4195b0dc2ce6" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/abhishekraj099/NewExpenseTracker/assets/126005731/2b24507c-8619-4361-9eef-0dd040799e90" alt="Screenshot 2" width="200"/>
+</p>
 
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
 
-- 🛠️ Android Studio 4.0 or higher
+- 🛠 Android Studio 4.0 or higher
 - 💻 Kotlin 1.5 or higher
-- ⚙️ Gradle 6.1.1 or higher
+- ⚙ Gradle 6.1.1 or higher
 
 ### 📥 Installation
 
-1. Clone the repo
-   ```ab
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/abhishekraj099/NewExpenseTracker.git
+   ```
+2. Open the project in Android Studio.
+3. Build and run the app on your preferred device or emulator.
+
+## 📚 Documentation
+
+For detailed documentation, please visit the [Wiki](https://github.com/abhishekraj099/NewExpenseTracker/wiki).
+
+## 👥 Contributing
+
+We welcome contributions to enhance this project. Please refer to our [Contributing Guidelines](https://github.com/abhishekraj099/NewExpenseTracker/blob/main/CONTRIBUTING.md) for more details.
+
+## 📝 License
+
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/abhishekraj099/NewExpenseTracker/blob/main/LICENSE) file for more details.
+
+---
+
+Enjoy using the **Expense Tracker** app and take control of your finances today! 💪
+
+---
+
+
+ Clone the repo
+   ``https://github.com/abhishekraj099/NewExpenseTracker
    
    
